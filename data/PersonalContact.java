@@ -1,4 +1,4 @@
-package datastructure;
+package data;
 
 public class PersonalContact extends Contact {
     String relationship;

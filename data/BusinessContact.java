@@ -1,4 +1,4 @@
-package datastructure;
+package data;
 
 public class BusinessContact extends Contact {
     String company;
