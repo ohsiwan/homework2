@@ -1,4 +1,4 @@
-package inter;
+package face;
 
 class Beauty extends Product {
     public Beauty(String name, int price, int weight) {

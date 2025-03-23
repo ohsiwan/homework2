@@ -1,4 +1,4 @@
-package inter;
+package face;
 
 abstract class Product implements Promotion {
     String name;

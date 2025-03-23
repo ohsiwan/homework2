@@ -1,4 +1,4 @@
-package inter;
+package face;
 
 class LargeAppliance extends Product {
     public LargeAppliance(String name, int price, int weight) {

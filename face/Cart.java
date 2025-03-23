@@ -1,4 +1,4 @@
-package inter;
+package face;
 
 class Cart {
     Product[] products;
