@@ -7,6 +7,6 @@ class LargeAppliance extends Product {
 
     @Override
     public int getDiscountAmount() {
-        return 0;  // 대형 가전은 할인 금액 없음
+        return 0;
     }
 }

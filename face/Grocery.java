@@ -7,6 +7,6 @@ class Grocery extends Product {
 
     @Override
     public int getDiscountAmount() {
-        return 2000;  // 식료품의 할인 금액
+        return 2000;
     }
 }
